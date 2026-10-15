@@ -1,40 +1,86 @@
-<h2>Olá, bem-vindo ao meu perfil do GitHub.</h2>
-  <p>
-    Sobre mim: <br>
-   - 💡 Skills: Problem Solving | Design Thinking | Agile<br>
-   - 📧 Contato: gabrielribeirosimoes@hotmail.com<br>
+# Gabriel Ribeiro Simões
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielribeirosimoes/)
+### Fraud & Risk Operations | Process Automation | Data Quality
 
-Sou formado em Desenvolvimento de Sistemas pela ETEC Professor Horácio Augusto da Silveira, com formação técnica em Administração e Transporte Metroviário. No momento, atuo como Agente de Prevenção a Fraude Jr. na Acert Online, onde realizo análises detalhadas para validar a legitimidade de transações e documentos. Tenho interesse em aplicar meus conhecimentos em tecnologia e prevenção de fraudes em projetos desafiadores e inovadores, que possam gerar impacto positivo na sociedade. Atualmente, estou indo para o segundo semestre do tecnólogo em Gestão de Tecnologia da Informação pela UFMS.
+*Turning operational challenges into practical, reliable tools.*
 
-Recentemente, estagiei na IBM como Application Developer, adquirindo expertise em Java, React, Node.js e Angular. Durante esse período, especializei-me em metodologias ágeis e Design Thinking, colaborando eficazmente em equipes multidisciplinares. Obtive certificações da IBM em Garage Essentials, Enterprise Design Thinking Practitioner e IBM Consulting Way. Meu objetivo é continuar aprendendo e me desenvolvendo como profissional, buscando oportunidades de crescimento e aprimoramento contínuo, especialmente na interseção entre tecnologia e segurança.
-<br>
-  <h2>Linguagens e Frameworks</h2>
-  <div style="display: inline-block">
-    <img class="icon-spacing" alt="C#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img class="icon-spacing" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img class="icon-spacing" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img class="icon-spacing" alt="Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img class="icon-spacing" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img class="icon-spacing" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img class="icon-spacing" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img class="icon-spacing" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  </div>
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribeirosimoes&layout=compact&theme=dark" alt="Gabriel Ribeiro Simoes Top Languages" height="180em" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gabrielribeirosimoes&show_icons=true&theme=dark" alt="Gabriel Ribeiro Simoes GitHub Stats" height="180em" />
-      </td>
-    </tr>
-  </table>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielribeirosimoes/)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gabrielribeirosimoes@hotmail.com)
+![Location](https://img.shields.io/badge/Based_in-São_Paulo%2C_Brazil-168B72?style=for-the-badge)
 
+---
 
+## About me
 
+I'm a Brazil-based professional working at the intersection of **financial operations, risk controls, and technology**. My experience spans **fraud prevention, KYC, identity and document verification, credit formalization, and operational quality**.
 
+I currently work in **Formalization & Risk at Creditas**, where I also develop internal automation tools to support workflows, validations, business rules, and quality monitoring. Previously, I interned as an **Application Developer at IBM**.
+
+My interests include **fraud and risk operations, business rules, AI evaluation, QA, data quality, and process improvement**.
+
+## Tools & technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-20232A?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
+![JSON](https://img.shields.io/badge/JSON-334155?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Practical experience:** REST APIs and webhooks · data validation · telemetry · dashboards and reporting · operational QA · workflow automation · generative AI-assisted analysis.
+
+**Earlier development exposure:** Java, React, Node.js, and Angular during my IBM internship.
+
+## Selected professional projects
+
+> **Confidentiality:** These are private professional projects. Descriptions are intentionally high-level; no proprietary source code, customer data, internal links, or confidential implementation details are shared here.
+
+### Atena | Risk & credit workflow automation
+
+Internal Chrome extension supporting operational analysis with workflow assistance, validations, business rules, integrations, and alerts. Includes telemetry and dashboards for visibility into usage and process execution.
+
+`JavaScript` `Chrome Extension` `APIs` `Business Rules` `Telemetry`
+
+### Operational Monitoring | Quality automation
+
+Automation-oriented workflows for operational checks, structured results, checkpoints, and monitoring, with an emphasis on repeatability and controlled execution.
+
+`JavaScript` `Google Apps Script` `QA` `Data Quality` `Automation`
+
+### Reporting & Process Controls | Operational analytics
+
+Dashboards and reporting workflows that consolidate indicators, improve visibility into operational requests, and reduce repetitive manual reporting steps.
+
+`Google Sheets` `Apps Script` `Dashboards` `Process Improvement`
+
+### AI-Assisted Workflows | Human-reviewed productivity
+
+Practical use of generative AI to support technical investigation, documentation, troubleshooting, and iterative improvement of automation workflows, with human review.
+
+`Generative AI` `Quality Review` `Documentation` `Problem Solving`
+
+## How I approach problems
+
+- **Reliable automation:** reduce repetitive work while preserving operational control.
+- **Quality and validation:** detect inconsistencies and make results verifiable.
+- **Business context:** design solutions around real operational needs.
+- **Clear documentation:** make workflows understandable and maintainable.
+
+## Education & background
+
+- **Technology Management**, UFMS — in progress (expected 2026).
+- **Systems Development**, ETEC Professor Horácio Augusto da Silveira — technical qualification.
+- **IBM**, former Application Developer intern — application development, Agile, and Enterprise Design Thinking.
+
+## Languages
+
+**Portuguese:** Native (Brazil) · **English:** Intermediate (B1–B2)
+
+---
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/gabrielribeirosimoes/) · [Email](mailto:gabrielribeirosimoes@hotmail.com)
